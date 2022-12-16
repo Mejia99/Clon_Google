@@ -1,3 +1,3 @@
 # Clon_Google
 
-Se desarrollo el clon de google utilizando algunas etiquetas 
+Este proyecto es una práctica de  clonación de google, fue creado con HTML y CSS en  tecnolochicas pro.
